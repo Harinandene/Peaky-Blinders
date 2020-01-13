@@ -5,7 +5,9 @@
 2.TEAM NO --> 4
 
 
-3.PROBLEM STATEMENT -->>Description-->Cities in India are growing fast. Cities have safety issues. We often come across news and available data, which indicates a particular area being more unsafe than others. We are looking for a software solution for ensuring the safety of citizens in these unsafe areas. Safety measures, Warning messages, Asking for help, etc. can be features. Additional features are welcome.
+3.PROBLEM STATEMENT -->Cities have issues of safety. There is data available in cities, which indicates a particular section being more unsafe than others. What should be done with these unsafe parts of any city to increase the safety of our citizens?
+
+>Description-->Cities in India are growing fast. Cities have safety issues. We often come across news and available data, which indicates a particular area being more unsafe than others. We are looking for a software solution for ensuring the safety of citizens in these unsafe areas. Safety measures, Warning messages, Asking for help, etc. can be features. Additional features are welcome.
 
 4.PROBLEM STATEMENT NUMBER-->BC74
 
