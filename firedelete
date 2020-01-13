@@ -1,0 +1,3 @@
+from firebase import firebase
+fbase=firebase.FirebaseApplication("https://joshua-imay-pol-kaaka.firebaseio.com/",None)
+result = fbase.delete('joshua-imay-pol-kaaka/Cust/','-LyTANSzQ3t16XFQjEto')
