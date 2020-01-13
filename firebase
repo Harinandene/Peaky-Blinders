@@ -1,0 +1,8 @@
+from firebase import firebase
+firebase=firebase.FirebaseApplication("https://joshua-imay-pol-kaaka.firebaseio.com/")
+data={
+    'Name':"Arjun"
+
+}
+result=firebase.post('joshua-imay-pol-kaaka/Cust',data)
+print(result)
