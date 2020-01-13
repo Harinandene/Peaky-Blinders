@@ -1,0 +1,10 @@
+from firebase import firebase
+fbase=firebase.FirebaseApplication("https://joshua-imay-pol-kaaka.firebaseio.com/",None)
+data = {
+    'Name':"Arjun",
+   'Email':"arjunsundar.348@gmail.com",
+    "Problem":"Deepak"
+
+}
+result = fbase.post('joshua-imay-pol-kaaka/Cust',data)
+print(result)
