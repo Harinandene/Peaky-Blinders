@@ -1,0 +1,5 @@
+from firebase import firebase
+fbase=firebase.FirebaseApplication("https://joshua-imay-pol-kaaka.firebaseio.com/",None)
+
+result = fbase.get('joshua-imay-pol-kaaka/Cust','')
+print(result)
